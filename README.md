@@ -2,4 +2,4 @@
 combining a branching and merging
 s="ramya"
 for i in s:
-print(s)
+
